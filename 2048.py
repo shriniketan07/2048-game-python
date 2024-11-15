@@ -34,7 +34,7 @@ class Board:
     def __init__(self):
         self.n=4
         self.window=Tk()
-        self.window.title('2048 Game by shriniketan')
+        self.window.title('2048 Game')
         self.gameArea=Frame(self.window,bg= 'azure3')
         self.board=[]
         self.gridCell=[[0]*4 for i in range(4)]

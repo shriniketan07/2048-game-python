@@ -3,6 +3,8 @@
 2048 is a simple mathematics puzzle game.
 It is a really addictive game and the main operation performed in this game is addition which makes it easy for all of us.
 
+![sample](Sample_2048_Game.png)
+ 
 ## How to Play
 The game starts with a 4x4 grid, where two tiles (2 or 4) are randomly placed on the board.
 

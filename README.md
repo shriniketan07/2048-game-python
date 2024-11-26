@@ -9,10 +9,10 @@ It is a really addictive game and the main operation performed in this game is a
 The game starts with a 4x4 grid, where two tiles (2 or 4) are randomly placed on the board.
 
 **Use the following keys to move the tiles:**
-- w to move up
-- a to move left
-- s to move down
-- d to move right
+- ↑ to move up
+- ← to move left
+- ↓ to move down
+- → to move right
 Tiles with the same number will merge when they collide, doubling their value. A new tile (either a 2 or 4) will be placed on the board after each move.
 
 Your goal is to merge the tiles to reach the 2048 tile. When you do, you win the game
